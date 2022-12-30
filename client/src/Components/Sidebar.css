@@ -1,0 +1,61 @@
+.expandedSidebar {
+  height: calc(100vh - 58px);
+  color: var(--text-main);
+  background-color: var(--secondary-color);
+  border: none;
+}
+
+.expandedSidebar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.expandedSidebar::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background-color: var(--main-secondary-light);
+}
+
+.active {
+  background-color: var(--secondary-light-color);
+}
+
+.active span {
+  font-variation-settings: "FILL" 1;
+}
+
+.sideTab:hover {
+  background-color: var(--secondary-light-color);
+}
+
+.subChannels:hover {
+  background-color: var(--secondary-light-color);
+}
+
+.subChannels p {
+  color: var(--text-main);
+}
+
+.closedSidebar {
+  background-color: var(--secondary-color);
+  z-index: 2;
+}
+
+.closedSidebarTab {
+  color: var(--text-main);
+}
+
+.closedSidebarTab:hover {
+  background-color: var(--secondary-light-color);
+}
+
+.close {
+  width: 5px;
+}
+.close #closedSidebar {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+}
+
+.close #sidebarContainer {
+  display: none;
+}

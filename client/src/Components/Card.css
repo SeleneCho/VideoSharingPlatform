@@ -1,0 +1,11 @@
+.videoInfo div h3 {
+  color: var(--text-light-main);
+}
+
+.videoInfo div p {
+  color: var(--text-light-main);
+}
+
+.timeInfo {
+  color: var(--text-light-main);
+}

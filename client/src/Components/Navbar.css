@@ -1,0 +1,35 @@
+.Container {
+  background-color: var(--secondary-color);
+  color: var(--text-main);
+}
+
+.humburger:hover {
+  background-color: var(--secondary-light-color);
+}
+
+.humburger div span {
+  background-color: var(--text-main);
+}
+
+.searchBox input {
+  border: 1px solid var(--secondary-light-color);
+  background-color: var(--primary-color);
+  color: var(--text-main);
+}
+
+.searchButton {
+  background-color: var(--text-light-main);
+}
+
+.searchButton span {
+  color: var(--primary-color);
+}
+
+.profileBtns {
+  background-color: var(--secondary-color);
+  color: var(--text-main);
+}
+
+.profileTab:hover {
+  background-color: var(--secondary-light-color);
+}

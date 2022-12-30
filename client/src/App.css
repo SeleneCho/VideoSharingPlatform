@@ -1,0 +1,44 @@
+:root {
+  --primary-color: #f1f1f6;
+  --secondary-color: #e1ccec;
+  --secondary-light-color: #be9fe1;
+  --main-secondary-light: #be9fe1;
+  --text-light-main: #7b72ac;
+  --hover-text-color: #7b72ac;
+  --text-main: #3b2a50;
+}
+
+.Brown-theme {
+  --primary-color: #f5ebe0;
+  --secondary-color: #e3d5ca;
+  --secondary-light-color: #f0e1d1;
+  --main-secondary-light: #d6ccc2;
+  --hover-text-color: #d5bfaf;
+  --text-main: #865f46;
+  --text-light-main: #b99279;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.material-symbols-rounded {
+  color: var(--text-main);
+  font-weight: 200;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 6px;
+  background-color: var(--secondary-light-color);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--primary-color);
+}

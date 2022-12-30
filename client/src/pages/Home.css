@@ -1,0 +1,38 @@
+.homeContainer {
+  background-color: var(--primary-color);
+  color: var(--text-main);
+}
+
+.tagsContainer {
+  background-color: var(--secondary-color);
+  --webkit-overflow-scrolling: touch;
+}
+
+.tagsContainer::-webkit-scrollbar {
+  display: none;
+}
+
+.tagsList {
+  background-color: var(--secondary-light-color);
+}
+
+.tagsList:hover {
+  background-color: var(--hover-text-color);
+}
+
+.tagsList.active {
+  background-color: var(--text-main);
+  color: var(--primary-color);
+}
+
+.bannerInfo {
+  transform: translateY(-50%);
+}
+
+.bannerInfo h1 {
+  color: var(--primary-color);
+}
+
+.videoContainer {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
