@@ -104,7 +104,7 @@ const VideoDetail = () => {
                 <div className="flex items-center gap-4 uppercase">
                   <div className="flex items-center gap-1 cursor-pointer">
                     <button onClick={handleLike}>
-                      {currentVideo.likes?.includes(currentUser?._id) ? (
+                      {currentVideo?.likes?.includes(currentUser?._id) ? (
                         <ThumbUpIcon />
                       ) : (
                         <ThumbUpOutlinedIcon />
