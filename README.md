@@ -11,11 +11,11 @@
          
 * Upload
   
-  * You can upload a video with a unique thumbnail
+  * You can upload a video with a unique thumbnail or tags
        <img width="1141" alt="Screenshot 2023-01-06 at 2 51 59 PM" src="https://user-images.githubusercontent.com/84310302/210938939-62efa660-da2d-4570-a311-6b577f220241.png">
  
  * Search
-   * You can search a specific video with its title
+   * You can search a specific video with its title or tags
     
 
 
