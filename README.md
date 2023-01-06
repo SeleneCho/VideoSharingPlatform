@@ -16,8 +16,7 @@
  
  * Search
    * You can search a specific video with its title or tags
-    
-
+   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84310302/210980696-c337eb15-e5cb-427c-a34c-bc6f304f0ecb.gif)
 
  
  * Add Comments
