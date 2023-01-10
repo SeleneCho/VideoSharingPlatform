@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Video Sharing Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This is a video sharing platform for uploadng and exploring videos
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Sign in / Sign up
 
-### `npm start`
+  - You can sign in with your google account or can create a new account
+    <img width="1141" alt="Screenshot 2023-01-06 at 2 49 19 PM" src="https://user-images.githubusercontent.com/84310302/210938632-36498e19-7957-4bbe-9368-e27b0af1912e.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Upload
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  - You can upload a video with a unique thumbnail or tags
+    <img width="1141" alt="Screenshot 2023-01-06 at 2 51 59 PM" src="https://user-images.githubusercontent.com/84310302/210938939-62efa660-da2d-4570-a311-6b577f220241.png">
 
-### `npm test`
+- Search
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - You can search a specific video with its title or tags
+    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84310302/210980696-c337eb15-e5cb-427c-a34c-bc6f304f0ecb.gif)
 
-### `npm run build`
+- Add Comments
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Related Videos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  - Recommended videos are automatically suggested based on your liked list
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Likes / Dislikes
 
-### `npm run eject`
+- Subscribe
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  - You can subscribe your favorite channels and also can see the subscription list on a sidebar
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Sidebar
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  - You can expand or close a sidebar
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Change Themes
 
-## Learn More
+  - Lilic Theme & Brown Theme
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Account Setting
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  - You can change your username and a profile picture on account setting page
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Responsive Layout
