@@ -10,7 +10,7 @@
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
-firebase.js
+client/src/firebase.js
 
 ### Node ###
 # Logs
