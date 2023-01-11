@@ -42,7 +42,7 @@ There are two different folders in this project - client and server, which means
  
 
 
-## Features
+# Features
 
  
  |Feature|Description|
