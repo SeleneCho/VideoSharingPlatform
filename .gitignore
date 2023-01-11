@@ -12,6 +12,7 @@
 .firebase/
 client/src/firebase.js
 
+
 ### Node ###
 # Logs
 logs
