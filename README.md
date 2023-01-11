@@ -54,5 +54,5 @@ There are two different folders in this project - client and server, which means
 |Related videos|Recommended videos would be suggested based on current user's liked list|
 |Like & Dislike|Users can like or dislike a video|
 |Change themes|This platform comes with two themes - Lilic & Brown|
-|Responsive layout|This platfor supports responsive layout based on user's screen size|
+|Responsive layout|This platform supports responsive layout based on user's screen size|
 |Account setting|Users can change their username or a profile picture|
