@@ -1,5 +1,7 @@
 # Video Sharing Platform
 #### This is a simple video sharing platform
+![Videos_Sharing](https://user-images.githubusercontent.com/84310302/212542938-87c3290d-78ac-4b20-a622-859e227f0c9f.png)
+
 
 # Purpose
 #### This project was stated as learning purpose and following stacks are used
